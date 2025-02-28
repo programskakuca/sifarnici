@@ -1,0 +1,554 @@
+{
+    "MIO_I": [
+        {
+            "oznaka": "8168",
+            "naziv": "Doprinos za mirovinsko osiguranje na temelju generacijske solidarnosti temeljem radnog odnosa (I. stup)",
+            "iban": "HR1210010051863000160",
+            "tip": "IZ",
+            "umanjenje": true,
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotak": 20.00,
+                    "postotakIIstup": 15.00
+                }
+            ]
+        },
+        {
+            "oznaka": "8176",
+            "naziv": "Doprinos za mirovinsko osiguranje na temelju generacijske solidarnosti temeljem drugog dohotka (I. stup)",
+            "iban": "HR1210010051863000160",
+            "tip": "IZ",
+            "umanjenje": false,
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotak": 10.00,
+                    "postotakIIstup": 7.5
+                }
+            ]
+        },
+        {
+            "oznaka": "8184",
+            "naziv": "Doprinos za mirovinsko osiguranje na temelju generacijske solidarnosti temeljem obveze prema poduzetničkoj plaći (I. stup)",
+            "iban": "HR1210010051863000160",
+            "tip": "IZ",
+            "umanjenje": false,
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotak": 20.00,
+                    "postotakIIstup": 15.00
+                }
+            ]
+        },
+        {
+            "oznaka": "8192",
+            "naziv": "Doprinos za mirovinsko osiguranje na temelju generacijske solidarnosti za staž osiguranja koji se računa s povećanim trajanjem (I. stup)",
+            "iban": "HR1210010051863000160",
+            "tip": "NA",
+            "benstaz": true,
+            "umanjenje": false,
+            "stope": [
+                {
+                    "stazZa12Mjeseci": 14,
+                    "od": "2003-01-01",
+                    "postotak": 4.86,
+                    "postotakIIstup": 3.61
+                },
+                {
+                    "stazZa12Mjeseci": 15,
+                    "od": "2003-01-01",
+                    "postotak": 7.84,
+                    "postotakIIstup": 5.83
+                },
+                {
+                    "stazZa12Mjeseci": 16,
+                    "od": "2003-01-01",
+                    "postotak": 11.28,
+                    "postotakIIstup": 8.39
+                },
+                {
+                    "stazZa12Mjeseci": 18,
+                    "od": "2003-01-01",
+                    "postotak": 17.58,
+                    "postotakIIstup": 13.07
+                }
+            ]
+        },
+        {
+            "oznaka": "8206",
+            "naziv": "Doprinos za mirovinsko osiguranje na temelju generacijske solidarnosti za osobe osigurane u određenim okolnostima (I. stup)",
+            "iban": "HR1210010051863000160",
+            "tip": "IZ",
+            "umanjenje": true,
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotak": 20.00,
+                    "postotakIIstup": 15.00
+                }
+            ]
+        },
+        {
+            "oznaka": "8214",
+            "naziv": "Doprinos za mirovinsko osiguranje I. stup za osiguranike po osnovama za koje obvezu doprinosa utvrđuje Porezna uprava rješenjem, prema propisanoj mjesečnoj osnovici",
+            "iban": "HR1210010051863000160",
+            "tip": "IZ",
+            "umanjenje": true,
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotak": 20.00,
+                    "postotakIIstup": 15.00
+                }
+            ]
+        },
+        {
+            "oznaka": "8222",
+            "naziv": "Doprinos za mirovinsko osiguranje na temelju generacijske solidarnosti za osiguranike za koje se doprinos uplaćuje prema posebnim propisima (I. stup)",
+            "iban": "HR1210010051863000160",
+            "tip": "IZ",
+            "umanjenje": true,
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotak": 20.00,
+                    "postotakIIstup": 15.00
+                }
+            ]
+        },
+        {
+            "oznaka": "8230",
+            "naziv": "Doprinos za mirovinsko osiguranje na temelju generacijske solidarnosti po osnovi obavljanja samostalne djelatnosti (I. stup)",
+            "iban": "HR1210010051863000160",
+            "tip": "IZ",
+            "umanjenje": true,
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotak": 20.00,
+                    "postotakIIstup": 15.00
+                }
+            ]
+        },
+        {
+            "oznaka": "8320",
+            "naziv": "Doprinos za mirovinsko osiguranje I. stup za obveznike doprinosa po osnovi obavljanja druge djelatnosti, prema godišnjoj osnovici",
+            "iban": "HR1210010051863000160",
+            "tip": "IZ",
+            "umanjenje": true,
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotak": 20.00,
+                    "postotakIIstup": 15.00
+                }
+            ]
+        }
+    ],
+    "MIO_II": [
+        {
+            "oznaka": "2283",
+            "naziv": "Doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje temeljem radnog odnosa (II. stup)",
+            "iban": "HR7610010051700036001",
+            "tip": "IZ",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotakIIstup": 5.00
+                }
+            ]
+        },
+        {
+            "oznaka": "2291",
+            "naziv": "Doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje temeljem drugog dohotka (II. stup)",
+            "iban": "HR7610010051700036001",
+            "tip": "IZ",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotakIIstup": 2.50
+                }
+            ]
+        },
+        {
+            "oznaka": "2305",
+            "naziv": "Doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje temeljem obveze prema poduzetničkoj plaći (II. stup)",
+            "iban": "HR7610010051700036001",
+            "tip": "IZ",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotakIIstup": 5.00
+                }
+            ]
+        },
+        {
+            "oznaka": "2313",
+            "naziv": "Doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje za osiguranike za koje se doprinos uplaćuje prema posebnim propisima (II. stup)",
+            "iban": "HR7610010051700036001",
+            "tip": "IZ",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotakIIstup": 5.00
+                }
+            ]
+        },
+        {
+            "oznaka": "2321",
+            "naziv": "Doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje za staž osiguranja koji se računa s povećanim trajanjem (II. stup)",
+            "iban": "HR7610010051700036001",
+            "tip": "NA",
+            "benstaz": true,
+            "stope": [
+                {
+                    "stazZa12Mjeseci": 14,
+                    "od": "2003-01-01",
+                    "postotakIIstup": 1.25
+                },
+                {
+                    "stazZa12Mjeseci": 15,
+                    "od": "2003-01-01",
+                    "postotakIIstup": 2.01
+                },
+                {
+                    "stazZa12Mjeseci": 16,
+                    "od": "2003-01-01",
+                    "postotakIIstup": 2.89
+                },
+                {
+                    "stazZa12Mjeseci": 18,
+                    "od": "2003-01-01",
+                    "postotakIIstup": 4.51
+                }
+            ]
+        },
+        {
+            "oznaka": "2330",
+            "naziv": "Doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje po osnovi obavljanja samostalne djelatnosti (II. stup)",
+            "iban": "HR7610010051700036001",
+            "tip": "IZ",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotakIIstup": 5.00
+                }
+            ]
+        },
+        {
+            "oznaka": "2224",
+            "naziv": "Doprinos za mirovinsko osiguranje II. stup - za obveznike po osnovi obavljanja druge djelatnosti, prema godišnjoj osnovici",
+            "iban": "HR7610010051700036001",
+            "tip": "IZ",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotakIIstup": 5.00
+                }
+            ]
+        },
+        {
+            "oznaka": "2046",
+            "naziv": "Doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje - član uprave (II. stup)",
+            "iban": "HR7610010051700036001",
+            "tip": "IZ",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotakIIstup": 5.00
+                }
+            ]
+        }
+    ],
+    "ZDR": [
+        {
+            "oznaka": "8486",
+            "naziv": "Doprinos za zdravstveno osiguranje temeljem radnog odnosa",
+            "iban": "HR6510010051550100001",
+            "tip": "NA",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "do": "2012-04-30",
+                    "postotak": 15.00
+                },
+                {
+                    "od": "2012-05-01",
+                    "do": "2014-03-31",
+                    "postotak": 13.00
+                },
+                {
+                    "od": "2014-04-01",
+                    "do": "2018-12-31",
+                    "postotak": 15.00
+                },
+                {
+                    "od": "2019-01-01",
+                    "postotak": 16.50
+                }
+            ]
+        },
+        {
+            "oznaka": "8494",
+            "naziv": "Doprinos za zdravstveno osiguranje temeljem obveze prema poduzetničkoj plaći",
+            "iban": "HR6510010051550100001",
+            "tip": "NA",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "do": "2012-04-30",
+                    "postotak": 15.00
+                },
+                {
+                    "od": "2012-05-01",
+                    "do": "2014-03-31",
+                    "postotak": 13.00
+                },
+                {
+                    "od": "2014-04-01",
+                    "do": "2018-12-31",
+                    "postotak": 15.00
+                },
+                {
+                    "od": "2019-01-01",
+                    "postotak": 16.50
+                }
+            ]
+        },
+        {
+            "oznaka": "8516",
+            "naziv": "Posebni doprinos  za zdravstveno osiguranje - za obveznike po osnovi korisnika mirovina",
+            "iban": "HR6510010051550100001",
+            "tip": "NA"
+        },
+        {
+            "oznaka": "8524",
+            "naziv": "Doprinos za zdravstveno osiguranje za osiguranike za koje se doprinos uplaćuje prema posebnim propisima",
+            "iban": "HR6510010051550100001",
+            "tip": "NA",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "do": "2012-04-30",
+                    "postotak": 15.00
+                },
+                {
+                    "od": "2012-05-01",
+                    "do": "2014-03-31",
+                    "postotak": 13.00
+                },
+                {
+                    "od": "2014-04-01",
+                    "do": "2018-12-31",
+                    "postotak": 15.00
+                },
+                {
+                    "od": "2019-01-01",
+                    "postotak": 16.50
+                }
+            ]
+        },
+        {
+            "oznaka": "8540",
+            "naziv": "Doprinos za zdravstveno osiguranje temeljem drugog dohotka",
+            "iban": "HR6510010051550100001",
+            "tip": "NA",
+            "stope": [
+                {
+                    "od": "2019-01-01",
+                    "postotak": 7.50
+                }
+            ]
+        },
+        {
+            "oznaka": "8605",
+            "naziv": "Doprinos za zdravstveno osiguranje po osnovi obavljanja samostalne djelatnosti",
+            "iban": "HR6510010051550100001",
+            "tip": "NA",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "do": "2012-04-30",
+                    "postotak": 15.00
+                },
+                {
+                    "od": "2012-05-01",
+                    "do": "2014-03-31",
+                    "postotak": 13.00
+                },
+                {
+                    "od": "2014-04-01",
+                    "do": "2018-12-31",
+                    "postotak": 15.00
+                },
+                {
+                    "od": "2019-01-01",
+                    "postotak": 16.50
+                }
+            ]
+        },
+        {
+            "oznaka": "8800",
+            "naziv": "Doprinos za zdravstveno osiguranje po osnovi obavljanja druge djelatnosti, prema godišnjoj osnovici",
+            "iban": "HR6510010051550100001",
+            "tip": "NA",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "do": "2012-04-30",
+                    "postotak": 15.00
+                },
+                {
+                    "od": "2012-05-01",
+                    "do": "2014-03-31",
+                    "postotak": 13.00
+                },
+                {
+                    "od": "2014-04-01",
+                    "do": "2018-12-31",
+                    "postotak": 15.00
+                },
+                {
+                    "od": "2019-01-01",
+                    "postotak": 16.50
+                }
+            ]
+        },
+        {
+            "oznaka": "8478",
+            "naziv": "Doprinos za obvezno zdravstveno osiguranje temeljem drugog dohotka - član uprave",
+            "iban": "HR6510010051550100001",
+            "tip": "NA"
+        }
+    ],
+    "INO": [
+        {
+            "oznaka": "8508",
+            "naziv": "Posebni doprinos za korištenje zdravstvene zaštite u inozemstvu",
+            "iban": "HR6510010051550100001",
+            "tip": "NA",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "postotak": 20.00
+                }
+            ]
+        }
+    ],
+    "ZNR": [
+        {
+            "oznaka": "8630",
+            "naziv": "Doprinos za zaštitu zdravlja na radu temeljem radnog odnosa",
+            "iban": "HR6510010051550100001",
+            "tip": "NA",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "do": "2018-12-31",
+                    "postotak": 0.50
+                }
+            ]
+        },
+        {
+            "oznaka": "8648",
+            "naziv": "Doprinos za zaštitu zdravlja na radu temeljem obveze prema poduzetničkoj plaći",
+            "iban": "HR6510010051550100001",
+            "tip": "NA",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "do": "2018-12-31",
+                    "postotak": 0.50
+                }
+            ]
+        },
+        {
+            "oznaka": "8656",
+            "naziv": "Doprinos za zaštitu zdravlja na radu za osobe osigurane u određenim okolnostima",
+            "iban": "HR6510010051550100001",
+            "tip": "NA",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "do": "2018-12-31",
+                    "postotak": 0.50
+                }
+            ]
+        },
+        {
+            "oznaka": "8710",
+            "naziv": "Doprinos za zaštitu zdravlja na radu za osiguranike za koje se doprinos uplaćuje prema posebnim propisima",
+            "iban": "HR6510010051550100001",
+            "tip": "NA",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "do": "2018-12-31",
+                    "postotak": 0.50
+                }
+            ]
+        },
+        {
+            "oznaka": "8133",
+            "naziv": "Doprinos za zaštitu zdravlja na radu po osnovi obavljanja samostalne djelatnosti",
+            "iban": "HR6510010051550100001",
+            "tip": "NA",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "do": "2018-12-31",
+                    "postotak": 0.50
+                }
+            ]
+        }
+    ],
+    "ZAP": [
+        {
+            "oznaka": "8753",
+            "naziv": "Doprinos za zapošljavanje",
+            "iban": "HR1210010051863000160",
+            "tip": "NA",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "do": "2018-12-31",
+                    "postotak": 1.70
+                }
+            ]
+        },
+        {
+            "oznaka": "8761",
+            "naziv": "Posebni doprinos za zapošljavanje osoba s invaliditetom",
+            "iban": "HR1210010051863000160",
+            "tip": "NA"
+        },
+        {
+            "oznaka": "8788",
+            "naziv": "Doprinos za zapošljavanje temeljem obveze prema poduzetničkoj plaći",
+            "iban": "HR1210010051863000160",
+            "tip": "NA",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "do": "2018-12-31",
+                    "postotak": 1.70
+                }
+            ]
+        },
+        {
+            "oznaka": "8796",
+            "naziv": "Doprinos za zapošljavanje po osnovi obavljanja samostalne djelatnosti",
+            "iban": "HR1210010051863000160",
+            "tip": "NA",
+            "stope": [
+                {
+                    "od": "2003-01-01",
+                    "do": "2018-12-31",
+                    "postotak": 1.70
+                }
+            ]
+        }
+    ]
+}

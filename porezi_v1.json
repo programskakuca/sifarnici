@@ -1,0 +1,145 @@
+{
+    "DOBIT": [
+        {
+            "oznaka": "1651",
+            "naziv": "Porez na dobit",
+            "iban": "HR1210010051863000160",
+            "povijest": [
+            ]
+        },
+        {
+            "oznaka": "1660",
+            "naziv": "Porez na dobit po odbitku na naknade za autorska prava i druga prava intelektualnog vlasništva",
+            "iban": "HR1210010051863000160",
+            "povijest": [
+            ]
+        },
+        {
+            "oznaka": "1678",
+            "naziv": "Porez na dobit po odbitku na naknade za usluge istraživanja tržišta, poreznog i poslovnog savjetovanja, revizorske usluge i sl.",
+            "iban": "HR1210010051863000160",
+            "povijest": [
+            ]
+        },
+        {
+            "oznaka": "1686",
+            "naziv": "Porez na dobit po odbitku na dividende i udjele u dobiti",
+            "iban": "HR1210010051863000160",
+            "povijest": [
+            ]
+        },
+        {
+            "oznaka": "1694",
+            "naziv": "Porez na dobit po odbitku na kamate",
+            "iban": "HR1210010051863000160",
+            "povijest": [
+            ]
+        },
+        {
+            "oznaka": "1791",
+            "naziv": "Porez na dobit po odbitku na naknade za nastupe inozemnih izvođača - umjetnika, zabavljača, sportaša",
+            "iban": "HR1210010051863000160",
+            "povijest": [
+            ]
+        },
+        {
+            "oznaka": "1864",
+            "naziv": "Porez na dobit po odbitku na usluge i ostale oporezive naknade plaćene osobama u državama s popisa Europske unije nekooperativnih jurisdikcija u porezne svrhe",
+            "iban": "HR1210010051863000160",
+            "povijest": [
+            ]
+        },
+        {
+            "oznaka": "1961",
+            "naziv": "Porez po tonaži broda",
+            "iban": "HR1210010051863000160",
+            "povijest": [
+            ]
+        },
+        {
+            "oznaka": "1970",
+            "naziv": "Porez na dobit u paušalnom iznosu",
+            "iban": "HR1210010051863000160",
+            "povijest": [
+            ]
+        }
+    ],
+    "DOHODAK": [
+        {
+            "oznaka": "1880",
+            "naziv": "Predujam poreza na dohodak i prireza porezu na dohodak po osnovi nesamostalnog rada (plaća)",
+            "povijest": [
+                {
+                    "datumPrimjene": "1994-01-01",
+                    "datumDo": "2000-12-31",
+                    "stope": [ 25.00, 35.00 ]
+                },
+                {
+                    "datumPrimjene": "2001-01-01",
+                    "datumDo": "2004-12-31",
+                    "stope": [ 15.00, 25.00, 35.00 ]
+                },
+                {
+                    "datumPrimjene": "2005-01-01",
+                    "datumDo": "2016-12-31",
+                    "stope": [ 15.00, 25.00, 35.00, 45.00 ]
+                },
+                {
+                    "datumPrimjene": "2017-01-01",
+                    "datumDo": "2020-12-31",
+                    "stope": [ 24.00, 36.00 ]
+                },
+                {
+                    "datumPrimjene": "2021-01-01",
+                    "datumDo": "2023-12-31",
+                    "stope": [ 20.00, 30.00 ]
+                },
+                {
+                    "datumPrimjene": "2024-01-01",
+                    "stopeOdredjujeGradOpcina": true
+                }
+            ]            
+        },
+        {
+            "oznaka": "1899",
+            "naziv": "Predujam poreza na dohodak i prireza porezu na dohodak po osnovi nesamostalnog rada (mirovina)"
+        },
+        {
+            "oznaka": "1910",
+            "naziv": "Predujam poreza na dohodak i prireza porezu na dohodak po osnovi dohotka od kapitala"
+        },
+        {
+            "oznaka": "1929",
+            "naziv": "Predujam poreza na dohodak i prireza porezu na dohodak po osnovi dohotka od imovinskih prava"
+        },
+        {
+            "oznaka": "1937",
+            "naziv": "Predujam poreza na dohodak i prireza porezu na dohodak po osnovi dohotka od osiguranja"
+        },
+        {
+            "oznaka": "1945",
+            "naziv": "Predujam poreza na dohodak i prireza porezu na dohodak po osnovi primitaka od kojih se utvrđuje drugi dohodak",
+            "povijest": [
+                {
+                    "datumPrimjene": "2005-01-01",
+                    "datumDo": "2016-12-31",
+                    "stope": [ 25.00 ]
+                },
+                {
+                    "datumPrimjene": "2017-01-01",
+                    "datumDo": "2020-12-31",
+                    "stope": [ 24.00 ]
+                },
+                {
+                    "datumPrimjene": "2021-01-01",
+                    "datumDo": "2023-12-31",
+                    "stope": [ 20.00 ]
+                },
+                {
+                    "datumPrimjene": "2024-01-01",
+                    "stopeOdredjujeGradOpcina": true
+                }
+            ]
+        }
+    ]
+}

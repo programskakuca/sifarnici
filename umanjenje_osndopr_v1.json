@@ -1,0 +1,11 @@
+[
+  {
+    "od": "2023-12-01",
+    "granice":
+    [
+        { "dGran": 0.00, "gGran": 700.00, "umanjenje": "300.00" },
+        { "dGran": 700.01, "gGran": 1300.00, "umanjenje": "0.5 * (1300 - ukupniBruto)" },
+        { "dGran": 1300.01, "gGran": 999999999999999.99, "umanjenje": "0.00" }
+    ]
+  }
+]
